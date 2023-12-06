@@ -1,0 +1,22 @@
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+.Todo {
+	width: 20%;
+	background-color: blue;
+	color: white;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
+.close {
+	background-color: red;
+	color: white;
+	border: none;
+	padding: 5px;
+	float: right;
+	border-radius: 0 10px 10px 0;
+	cursor: pointer;
+}
